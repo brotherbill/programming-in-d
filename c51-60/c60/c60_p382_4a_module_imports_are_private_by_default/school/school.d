@@ -1,0 +1,3 @@
+module school.school;
+
+import std.stdio;            // imported for this module's own use...
